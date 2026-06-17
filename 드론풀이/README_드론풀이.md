@@ -3,6 +3,10 @@
 `드론예상문제.txt`의 20문제를 **DS_LT_Opensources 라이브러리 조립 위주**로 푼 답안.
 20개 전부 VS2019에서 **경고/에러 0개로 컴파일 검증** 완료.
 
+> C 문법이 가물가물하면 → `../DS_LT_Opensources/C_기초문법.md`
+> 함수 사용법·조립 레시피 → `../DS_LT_Opensources/README.md`
+> 에러 대처 → `../DS_LT_Opensources/TROUBLESHOOTING.md`
+
 ## 컴파일 방법
 1. VS 빈 프로젝트 생성
 2. 풀려는 `드론NN_*.c` 1개 + **DS_LT_Opensources의 .h/.c 전부** 추가
