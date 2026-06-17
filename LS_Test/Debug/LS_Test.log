@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\admin\Desktop\[JY] DS 기말고사\DS_LT_Opensources\main.c(9,24): warning C4101: 'work' :참조되지 않은 지역 변수입니다.
+C:\Users\admin\Desktop\[JY] DS 기말고사\DS_LT_Opensources\main.c(10,6): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+C:\Users\admin\Desktop\[JY] DS 기말고사\DS_LT_Opensources\main.c(34,6): warning C4101: 'menu' :참조되지 않은 지역 변수입니다.
+  LS_Test.vcxproj -> C:\Users\admin\Desktop\[JY] DS 기말고사\LS_Test\Debug\LS_Test.exe
